@@ -4,8 +4,8 @@ set_time_limit(300);
 
 $GLOBALS['emailRetrieverConfig'] = array (
     'mail_cred' => array (
-        'email'         => 'idesignuxservice@gmail.com',
-        'password'      => 'Temitayo1',
+        'email'         => '',
+        'password'      => '',
         'servername'   => 'imap.gmail.com:993'
     )
 );
